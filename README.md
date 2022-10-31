@@ -1,3 +1,9 @@
+
+## NB: This fork of Pavel Penge's very simple and elegant site blocker adds a motivational quote to the blocked page. These are defined in /src/blocked.ts
+
+----
+
+
 # Block Site
 
 **Block Site** (formerly known as Stop Social Media) is a simple Chrome extension that improves your productivity by blocking access to distracting websites as you specify.

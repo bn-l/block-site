@@ -2,3 +2,9 @@
   font-family: monospace;
   opacity: .3;
 }
+
+#m-quote {
+  font-size: xxx-large;
+  margin: 2em 0 2em 0;
+  display: block;
+}
